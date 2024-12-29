@@ -1,4 +1,4 @@
-# Node modules
+npm run build# Node modules
 node_modules/
 
 # Nuxt build output
